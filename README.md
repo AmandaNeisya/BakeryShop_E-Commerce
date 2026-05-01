@@ -15,6 +15,7 @@ Annisa Citra Indramahardika (I.2410173)
 Amanda Neisya Yulyana (I.2410342)
 
 🚀 Fitur Utama
+
 Katalog Produk Interaktif: Menampilkan daftar roti dan kue dengan gambar, harga, dan detail produk saat diklik.
 
 Sistem Keranjang Belanja: Memungkinkan pelanggan menampung pesanan dan menghitung total harga otomatis.
